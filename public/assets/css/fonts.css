@@ -1,0 +1,37 @@
+/*Include*/
+@font-face {
+	font-family: 'pp';
+	src: url('../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'pp-bold';
+	font-weight: bold;
+	src: url('../../assets/fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'back';
+	src: url('../../assets/fonts/back.ttf');
+}
+
+@font-face {
+	font-family: 'OpenSans-Regular';
+	src: url('../../assets/fonts/OpenSans-Regular.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-Light';
+	src: url('../../assets/fonts/OpenSans-Light.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-Bold';
+	src: url('../../assets/fonts/OpenSans-Bold.ttf');
+}
+@font-face {
+	font-family: 'lato-black';
+	src: url('../../assets/fonts/Lato-Black.ttf');
+}
+@font-face {
+	font-family: 'tahoma';
+	src: url('../../assets/fonts/tahoma.ttf');
+}

@@ -1,0 +1,387 @@
+@media screen and (max-width: 1237px) {
+	#menu nav ul li {
+		margin-left: 20px!important;
+	}
+}
+
+@media screen and (max-width: 1211px) {
+	#menu nav ul li {
+		margin-left: 10px!important;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+
+	#menu {
+		padding: 20px 95px 20px 95px!important;
+	}
+
+	#logo {
+		height: 25px!important;
+	}
+
+	#nav {
+		margin-top: 0px!important;
+	}
+
+	.right-banner {
+	    position: absolute;
+	    right: 0;
+	}
+
+	#alumni {
+		padding: 90px 0 190px 0!important;
+	}
+
+	.kursus-content-1 {
+	    width: 215px!important;
+	}
+	.kursus-content-1 p:nth-child(3) {
+	    display: none;
+	}
+
+	.kursus-content-1 p:nth-child(1) {
+		font-size: 40px!important;
+	}
+
+	#menu nav ul li {
+		margin-left: 10px!important;
+	}
+
+	.right-banner img:nth-child(1) {
+		display: none;
+	}
+
+	.right-banner img:nth-child(2) {
+		display: table!important;
+		width: 540px;
+	}
+
+	.artikel-content.primary {
+		width: 440px!important;
+		height: 230px!important;
+	}
+
+	.gallery-content-primary {
+    	width: 500px!important;
+    }
+
+    .right-karya img:nth-child(2) {
+	    margin-left: -50px!important;
+	    width: 440px!important;
+	}
+
+	.right-karya img:nth-child(1) {
+	    height: 409px!important;
+	}
+}
+
+@media screen and (max-width: 1065px) {
+	.menu-collapse {
+		display: inline!important;
+	}
+
+	#menu nav ul li {
+		display: none;
+	}
+	
+	#menu nav ul li:nth-child(9) {
+		display: inline;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.kursus-content-1:hover p:nth-child(4) {
+	    display: none!important;
+	}
+
+	.kursus-content-1 {
+	    width: 25% !important;
+	    margin-right: 0px!important;
+	    box-shadow: 0px!important;
+	}
+
+	.kursus-content-1 p:nth-child(2) {
+	    font-weight: normal;
+	    font-size: 15px!important;
+	    margin-top: 0px!important;
+	}
+
+	.artikel-content, .artikel-content.primary {
+	    width: 100%!important;
+	}
+
+	.artikel-content.secondary {
+	    margin-top: 30px!important;
+	}
+
+	.left-karya {
+	    width: 100%;
+	}
+
+	.right-karya img:nth-child(1) {
+	    height: 409px !important;
+	    position: absolute;
+	    right: 0;
+	}
+
+	.right-karya img:nth-child(2) {
+		display: none;
+	}
+
+	.mdzaky-widget {
+		padding: 10px!important;
+	}
+
+	.blog-date {
+		box-shadow: none!important;
+		position: relative!important;
+		padding: 0!important;
+		/*padding-bottom: 30px!important;*/
+	}
+
+
+	/*Login*/
+	.feature-login {
+		display: none;
+	}
+
+	.logo-login {
+		display: inherit!important;
+		width: 150px;
+		margin-bottom: 50px;
+	}
+
+	.mar_top4 {
+		margin-top: 50px!important;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.right-banner img:nth-child(2) {
+	    display: none!important;
+	}
+
+	.right-gallery {
+	     width: 60%!important; 
+	}
+
+	.gallery-content-primary {
+	    width: 100%!important;
+	}
+
+	.kursus-content-1 {
+	    box-shadow: 4px 1px 8px #e1e1e1!important;
+	    padding: 10px 10px!important;
+	}
+
+	.row.media {
+		margin-top: 3rem!important;
+	}
+
+	#daftarisi {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 610px) {
+
+	.text-avatar {
+		padding: 0px 0px!important;
+	}
+
+	#alumni {
+		background-image: none!important;
+		padding: 90px 0 0px 0!important;
+	}
+
+	#karya {
+	    padding: 50px 0 50px 0!important;
+	}
+
+	.owl-stage-outer, .owl-stage {
+	    height: auto!important;
+	}
+
+	.kursus-content-1 p span {
+		display: none!important;
+	}
+
+	.owl-item {
+		height: auto!important;
+	}
+
+	.owl-nav {
+		display: none!important;
+	}
+
+	.owl-dots {
+		display: none!important;
+	}
+
+	.left-karya p:nth-child(2) {
+		font-size: 15px!important;
+	}
+
+	.right-karya {
+		display: none!important;
+	}
+
+	.alumni-content img {
+		width: 70px!important;
+		margin-bottom: 0px!important;
+		margin-top: 10px!important;
+	}
+
+	#menu {
+		padding: 20px 10px 20px 10px!important;
+	}
+
+	.left-banner p:nth-child(2) {
+		font-size: 45px!important;
+	}
+
+	.left-banner-text {
+	    font-size: 13px!important;
+	    margin-bottom: 10px!important; 
+	}
+
+	.kursus-content-1 p:nth-child(2) {
+	    font-size: 15px!important;
+	    float: left;
+	    padding-top: 20px;
+	    margin-left: 20px;
+	}
+
+	.kursus-content-1 p:nth-child(4) {
+	    display: inline!important;
+	    font-size: 40px!important;
+	    color: #4c84ff!important;
+	    float: right;
+	    margin-top:  20px!important;
+	}
+
+	.kursus-content-1 {
+		width: 100%!important;
+	    padding: 0px 40px!important;
+	}
+
+	.kursus-content-1 p:nth-child(1) {
+		float: left;
+	    margin-top: 20px!important;
+	}
+
+	.btn-gradient {
+	    font-size: 10px!important;
+	    padding: 10px 20px!important;
+	}
+
+	.primary-text {
+	    font-size: 25px!important;
+	    line-height: 0px;
+	}
+
+	.secondary-text {
+	    font-size: 14px!important;
+	    margin-bottom: 10px!important; 
+ 	}
+
+ 	.avatar {
+ 		font-size: 14px;
+ 	}
+
+ 	.artikel-content.primary,.artikel-content.secondary,.artikel-content.third {
+	    height: 150px!important;
+	}
+
+	.artikel-title, .artikel-title p {
+		font-size: 17px!important;
+	}
+
+	#banner {
+		padding-top: 0px!important;
+	}
+
+	.karya-title {
+	    font-size: 35px!important;
+	    line-height: 60px!important;
+	}
+
+	/*body section, #footer {
+		width: 142%!important;
+	}*/
+}
+
+@media screen and (max-width: 423px) {
+	.kursus-content-1 p:nth-child(4) {
+	    display: none!important;
+	}
+
+	.blog-content {
+		padding: 40px 10px 15px 10px!important;
+	}
+
+	.blog-profile img {
+		width: 100px!important;
+	}
+
+	.blog-item {
+		box-shadow: none!important;
+	}
+}
+
+@media screen and (max-width: 390px) {
+	.not-support {
+		display: inline;
+	}
+
+	#alumni .container .section-title .secondary-text {
+		text-align: left!important;
+	}
+
+	#alumni {
+		background-image: none!important;
+		padding: 80px 0 80px 0!important;
+	}
+
+	.owl-carousel.alumni.owl-loaded.owl-drag {
+		display: none;
+	}
+
+	.right-gallery {
+		display: none;
+	}
+
+	.left-gallery {
+		width: 100%;
+	}
+
+	.gallery-content {
+		float: left;
+		width: 50%;
+	}
+
+	#gallery {
+		padding: 0px 0!important;
+	}
+
+	#karya {
+		padding: 50px 0!important;
+	}
+
+	.right-karya {
+		display: none;
+	}
+
+	.left-karya {
+		width: auto!important;
+	}
+
+	.blog-img {
+		border-radius: 5px 5px 0 0;
+	    display: block;
+	    height: 100px;
+	    width: 100px;
+	    float: left;
+	}
+}
